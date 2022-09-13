@@ -3,11 +3,10 @@
 Bootstrap-Exercise is a training project built on week 8 of learning with [ITGirlSchool].
 
 The task was to build the follwing layout using Bootstrap:
-<br>
+<br><br>
 <img width="45%" alt="screen capture" src="../main/assets/images/taskimg.png">
 
 ## Result
-<br>
 <img width="45%" alt="screen capture" src="../main/assets/images/captureweb.jpeg">
 
 ## Demo
