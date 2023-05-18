@@ -1,6 +1,6 @@
 # Bootstrap-Exercise
 
-Bootstrap-Exercise is a training project created on week 8 of learning IN [ITGirlSchool].
+Bootstrap-Exercise is a training project created on week 8 of learning in [ITGirlSchool].
 
 The task was to build the following layout using Bootstrap:
 <br><br>
