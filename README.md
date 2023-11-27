@@ -6,7 +6,7 @@ The task was to build the following layout utilizing Bootstrap.
 <img width="45%" alt="screen capture" src="../main/assets/images/taskimg.png">
 
 ## Result
-<img width="45%" alt="screen capture" src="../main/assets/images/captureweb.jpg">
+<img width="45%" alt="screen capture" src="../main/assets/images/captureweb.jpeg">
 
 ## Demo
 [Bootstrap Exercise]
