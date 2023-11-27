@@ -1,8 +1,7 @@
-# Bootstrap-Exercise
+# Bootstrap Exercise
+Bootstrap-Exercise is a training project created during week 8 of my learning at [ITGirlSchool].
 
-Bootstrap-Exercise is a training project created on week 8 of learning in [ITGirlSchool].
-
-The task was to build the following layout using Bootstrap:
+The task was to build the following layout utilizing Bootstrap.
 <br><br>
 <img width="45%" alt="screen capture" src="../main/assets/images/taskimg.png">
 
@@ -10,7 +9,7 @@ The task was to build the following layout using Bootstrap:
 <img width="45%" alt="screen capture" src="../main/assets/images/captureweb.jpeg">
 
 ## Demo
-[Bootstrap-Exercise]
+[Bootstrap Exercise]
 
 ## Tech stack
 
@@ -23,5 +22,5 @@ The task was to build the following layout using Bootstrap:
   
 
    [ITGirlSchool]: <https://itgirlschool.com/en>
-   [Bootstrap-Exercise]: <https://alenagm.github.io/Bootstrap-Exercise/>
+   [Bootstrap Exercise]: <https://alenagm.github.io/bootstrap-exercise/>
 
